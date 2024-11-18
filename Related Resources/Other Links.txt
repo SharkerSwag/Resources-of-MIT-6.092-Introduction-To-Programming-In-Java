@@ -1,0 +1,15 @@
+How to Think Like a Computer Scientist  ：
+	https://www.greenteapress.com/thinkapjava/
+	(The course approximately follows this book.)
+
+Introduction to Programming Using Java, Fifth Edition  :
+	https://math.hws.edu/javanotes/
+	(Alternative free electronic book.)
+
+The Java API  :
+	https://docs.oracle.com/javase/6/docs/api/
+	(The one reference you should take away from this course!)
+
+Eclipse: Total Beginner Lessons  :
+	https://eclipsetutorial.sourceforge.net/totalbeginnerlessons.html
+	(Screen casts showing how to use Eclipse for Java development.)
